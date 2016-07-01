@@ -7,15 +7,3 @@ setting up new server on EC2Spot instance
 6) npm install body-parser --save
 7) npm install aws-sdk
 
-
-{ access_token: 'ya29.Ci8LA11Abglr9SNVPSqhfdj9t9dIwkQ7of_QUWqu-AaIUngCk2UXSga0ZWvYEDsMlg',
-  token_type: 'Bearer',
-  refresh_token: '1/efuSqiP-A9mbeCxt_fvImkhXespvo_CVLXyrRW7zcZE',
-  expiry_date: 1466812505117 }
- 
-
-
-Access Key ID:
-AKIAIYIHEED4CFKQQPIA
-Secret Access Key:
-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
