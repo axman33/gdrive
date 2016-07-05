@@ -4,13 +4,16 @@
   "description": "Copy to Amazon Drive",
   "main": "server.js",
   "dependencies": {
+    "JSON": "^1.0.0",
     "aws-sdk": "~2.4.4",
     "body-parser": "~1.15.2",
     "express": "~4.14.0",
     "googleapis": "~9.0.0",
     "open": "~0.0.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
